@@ -327,8 +327,10 @@ The strength of any final conclusion depends on the supporting evidence and the 
 
 ### 👩🏽‍💻 About This Project
 
-**Project:** Investigating Rhion Possession Evidence  
-**Domain:** Digital Forensics and Incident Investigation  
-**Case Study:** SBT-DF204  
-**Environment:** Kali Linux  
-**Repository:** [Investigating Rhion Possession Evidence](https://
+Project: Investigating Rhion Possession Evidence
+Domain: Digital Forensics and Incident Investigation
+Case Study: SBT-DF204
+Environment: Kali Linux
+Repository: Investigating Rhion Possession Evidence
+
+This repository documents practical forensic analysis and the supporting artefacts generated during the case study. The final report and additional screenshots can be added as the documentation is completed.
