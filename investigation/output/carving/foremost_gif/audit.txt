@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Oct 26 15:50:51 2026
+Invocation: foremost -v -t gif -i /home/kali/SBT-DF204/CaseStudy4/investigation/output/unallocated/usb_unallocated.bin -o /home/kali/SBT-DF204/CaseStudy4/investigation/output/carving/foremost_gif 
+Output directory: /home/kali/SBT-DF204/CaseStudy4/investigation/output/carving/foremost_gif
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: /home/kali/SBT-DF204/CaseStudy4/investigation/output/unallocated/usb_unallocated.bin
+Start: Mon Oct 26 15:50:51 2026
+Length: 247 MB (259227136 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00106320.gif 	      11 KB 	   54435840 	  (290 x 246)
+1:	00106344.gif 	       4 KB 	   54448128 	  (150 x 87)
+Finish: Mon Oct 26 15:50:51 2026
+
+2 FILES EXTRACTED
+	
+gif:= 2
+------------------------------------------------------------------
+
+Foremost finished at Mon Oct 26 15:50:51 2026

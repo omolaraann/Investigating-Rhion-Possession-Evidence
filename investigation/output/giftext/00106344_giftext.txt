@@ -1,0 +1,227 @@
+
+/home/kali/SBT-DF204/CaseStudy4/investigation/output/carving/foremost_gif/gif/00106344.gif:
+
+	Screen Size - Width = 150, Height = 87.
+	ColorResolution = 8, BitsPerPixel = 8, BackGround = 0, Aspect = 0.
+	Has Global Color Map.
+
+
+Image #1:
+
+	Image Size - Left = 0, Top = 0, Width = 150, Height = 87.
+	Image is Non Interlaced.
+	No Image Color Map.
+
+Image LZ compressed Codes (Code Size = 8):
+
+00000h:   00h fbh 09h 1ch 48h b0h a0h c1h 83h fdh cch 8dh 01h 93h 01h a1h
+00010h:   c3h 87h 10h 23h 4ah 9ch 48h b1h a2h c5h 8bh 03h 2fh d8h d1h c6h
+00020h:   6dh 0ch c6h 8fh 20h 43h 8ah 1ch 59h 31h 8eh 1eh 6dh dah f4h 60h
+00030h:   21h c9h b2h a5h cbh 97h 04h d9h d5h c3h 27h 90h 5eh 07h 94h dah
+00040h:   30h 98h 83h c9h b3h a7h cfh 88h 60h 06h 14h 70h 26h b0h 0dh 4eh
+00050h:   3dh 5fh f6h fdh 5ch cah b4h 27h 96h 3dh 37h 44h 78h f9h 27h efh
+00060h:   24h cah 2ah 01h 76h bah dch 37h efh 9ch b3h 5bh 68h bch a0h 81h
+00070h:   03h ach d8h b9h 7ah 4dh d3h 62h ach 37h 46h 5bh 1dh 20h 10h ach
+00080h:   24h c0h 99h 26h 14h 80h 38h 5ah b0h 9ch 4bh 87h 0eh 9dh bah 75h
+00090h:   ech e4h cdh a3h 57h 2fh 5fh c4h 74h 69h 4ch 38h b9h a4h aah 97h
+000a0h:   e3h c7h aah a8h b0h b8h 01h 06h 98h 34h 79h feh d4h 6ah 7eh c8h
+000b0h:   66h 8fh 36h 2eh 40h 80h 38h e0h 80h 52h 4fh a8h 50h 26h 14h b9h
+000c0h:   9ah 34h 25h 4ah 14h 44h 8ah 14h 4dh 9ah 8dh c4h 84h 8eh 35h c1h
+000d0h:   a8h cdh fbh 47h f0h 99h 99h c6h 8fh 83h 0bh 77h 8ch ebh 93h 14h
+000e0h:   13h 06h b2h c4h 71h 86h ceh f0h 47h 79h cfh e0h 80h 49h 43h 07h
+000f0h:   8eh 1ch 63h f4h 36h 47h fch 87h 00h e5h 8ah d0h 00h 1eh 78h 36h
+00100h:   72h dah 92h abh f3h e8h d3h abh f7h 84h c8h 08h 85h 2eh c0h 82h
+00110h:   e9h 58h 35h bch beh fdh 5eh c5h 9dh 3ch 00h a0h 61h 4dh d9h 67h
+00120h:   d5h a0h 23h 0fh 3eh bch 15h f4h 8fh 3ah c5h ach a1h 83h 12h 97h
+00130h:   e0h 12h 1ch 2eh a9h 38h d1h 85h 31h 68h 69h 87h 90h 3ch 1dh 70h
+00140h:   63h 47h 0ah 21h d4h a6h 48h 15h 4dh 9ch 36h 0ah 29h ach b0h a2h
+00150h:   deh 89h 27h 7ah 32h c9h 7dh 2ch deh b7h 83h 2ch a4h a8h a8h 88h
+00160h:   13h 46h b0h 10h c2h 03h 31h 5ch f1h 05h 1bh c2h 78h 51h 81h 13h
+00170h:   9fh b4h e8h d8h 27h 23h 64h 71h 8eh 85h 08h c1h 81h 01h 05h a7h
+00180h:   35h e9h a4h 93h 23h 96h 62h 22h 8ah eah 39h 28h e4h 95h c4h c9h
+00190h:   a2h e5h 96h 5ch 6ah 49h cah 2ah c0h 61h f9h 18h 2eh 12h a2h 83h
+001a0h:   64h 41h 70h 3ch f0h e4h 9ah 6ch 86h 42h 22h 95h e7h f9h 22h e6h
+001b0h:   95h b8h 74h 69h e7h 96h 2bh ceh 29h dch 25h 61h a8h 73h 66h 3fh
+001c0h:   c5h 2ch d0h e6h a0h 4fh 8eh 22h 25h 8ah 72h eah c9h e2h 2eh 77h
+001d0h:   36h 4ah 89h a2h c2h 29h b1h 06h 3bh dah e1h 63h c1h 04h 48h 10h
+001e0h:   aah e9h 93h 53h 9eh d7h 0ah a4h 2dh 36h dah 68h 98h a0h a6h 52h
+001f0h:   41h 1ch 9ah a5h 43h c0h a6h 4dh 1ah f2h 08h 24h 9dh 68h 6ah e8h
+00200h:   79h a1h 80h cah a2h a8h 77h 92h 62h 6bh 70h 97h dch 30h 4fh 5ah
+00210h:   00h 9ch 16h 85h a6h 98h 3ch 11h 5ah 68h 86h b0h cah 8ah 22h bbh
+00220h:   dah 87h ebh 9dh f4h 35h ebh 98h 13h 44h 2dh 05h 07h 13h a1h 2ch
+00230h:   b1h 0ch a1h 92h 0ch e1h 09h 2ah aah ach e2h 09h 26h a5h b0h fah
+00240h:   68h 2fh a4h 36h fbh ech 9dh a8h 48h 4bh 1ch 1ah 4bh c5h 41h 9eh
+00250h:   35h f7h 30h a3h 08h 9bh 9dh 00h 41h 0ah 2ah bah e4h 92h 8bh 2eh
+00260h:   b4h a0h 72h 0ah 29h 9ah 9eh fbh cbh c1h bch f0h 32h 8bh 2bh afh
+00270h:   c4h e2h b0h 2ch b3h 24h 7ch 70h a8h ebh dah e9h eeh 63h 13h 98h
+00280h:   d9h 13h 1bh 47h 74h f2h 46h 34h 6eh dch bbh e6h 13h 4fh f0h ebh
+00290h:   afh bfh bah a4h 72h 4ah 29h a3h 10h 7ah 89h 63h bch c0h 09h 67h
+002a0h:   2ch b2h fch 32h 5ch c5h 76h 46h 7bh f1h 0eh c1h f4h b4h 46h a6h
+002b0h:   23h 00h b0h 45h 9bh 44h 44h 42h cbh c9h 27h ebh 22h 30h c1h 83h
+002c0h:   52h 22h 8bh 6ah 32h 47h 7dh 5eh 2ch 11h ffh 82h b3h c5h 17h 3bh
+002d0h:   46h c5h 15h 0eh 15h 18h 91h 18h a8h 12h 14h 43h 93h 48h 78h d2h
+002e0h:   66h 11h 9eh f4h 8bh f4h bfh 2ah 97h 3bh e8h 12h aeh 20h 22h f5h
+002f0h:   dch e7h ddh 2bh 25h 2bh b0h a0h b7h aeh c4h e8h 3dh 5ch b5h cdh
+00300h:   73h 7eh b2h d2h 41h 77h ach 11h d1h 3eh cah b8h 53h 86h 9fh fdh
+00310h:   c8h c3h e4h a6h 45h 58h 72h f4h dah 4ah afh 4ch 68h 13h 74h 67h
+00320h:   2eh f2h 9ah 23h 86h 32h cah e7h 23h 92h f2h f9h 69h 79h cbh dch
+00330h:   30h c4h bbh cch 02h f8h 7dh b8h 7ch 71h 90h 07h 7ch 84h 11h 11h
+00340h:   1eh feh 90h 53h 86h 30h fdh 04h 53h 02h abh 40h 58h 92h 8ah dah
+00350h:   49h 0bh ech 76h 9bh 4eh 64h 4eh f7h e6h ach 3eh d9h 8ah f1h e7h
+00360h:   bdh c2h cbh 2fh bch d8h 87h 4bh 43h 05h e1h 41h 8eh 32h aeh 3fh
+00370h:   f4h c6h 3dh ffh b8h c3h 07h 1bh 02h 24h ffh 04h 11h a8h fch 8eh
+00380h:   72h c0h a8h b0h 4ch a8h 14h 50h 33h 0fh 27h f2h c9h 37h 19h 85h
+00390h:   fbh 7dh 47h 5fh dfh 14h 1ah 0fh 14h cch 38h edh 28h 93h c5h 43h
+003a0h:   d2h f8h 86h 3fh f8h 21h 8eh 6bh c4h 0fh 13h 40h 28h 04h 2ah cah
+003b0h:   97h 8ah 54h 08h 6ch 60h 9ah 9ah 44h 24h e8h 07h 27h 44h c4h 6fh
+003c0h:   4dh 53h a0h e0h d4h ech 27h 1ch 27h dch a2h 20h f2h b8h c6h 3dh
+003d0h:   dch 71h 0dh 2bh 3ch e4h 0fh f6h e8h 07h 3fh beh 91h bch 25h 1ch
+003e0h:   21h 14h 40h f0h d6h 02h 85h c7h b4h f5h 69h 90h 4ah c3h bah e0h
+003f0h:   93h 4ah 77h 43h 0eh 3ah 66h 0ah 14h f0h 9ah 40h c8h 00h 0fh 7eh
+00400h:   90h e3h 1ah 1ah 70h 48h 31h b0h 71h 0fh 7dh d4h 45h 53h 46h e8h
+00410h:   c1h 69h 58h 10h 8ah 27h 1ch c2h 50h a5h 10h 1dh abh 4ch 70h 43h
+00420h:   14h e5h 50h 87h 4dh 82h 5bh 17h 5dh e1h 43h 29h 34h c1h 18h 05h
+00430h:   29h c6h 37h feh 71h 0fh 71h 84h 63h 0bh d5h 38h c8h 3fh 00h 90h
+00440h:   8ch 4bh 6ch 8ah 3ch 60h 64h 93h 18h c7h 88h 1eh 0bh e6h f1h 34h
+00450h:   7bh 1ch a3h fdh 22h c1h 88h 1ch 18h c4h 0fh f0h e8h 87h 3dh dch
+00460h:   58h 38h 9ah 14h 04h 18h 99h 82h e2h 1fh d9h c4h c7h f4h c0h 62h
+00470h:   92h 4dh 92h 5bh 25h a7h c0h 0bh 48h 30h c2h 05h d5h 1ah 08h 34h
+00480h:   c6h c1h 0fh 7eh c0h a3h 1dh e1h 08h 87h 07h d0h d8h 8fh 7ch a0h
+00490h:   83h 18h 21h d8h d4h 12h 30h f9h 24h cch 55h f2h 3ch 97h a4h 25h
+004a0h:   12h 6eh 89h 08h 24h 30h e2h 97h b6h 30h 48h 32h 12h 69h 4ah 72h
+004b0h:   a4h 32h 10h c4h f8h 42h 13h 00h a0h 02h 5ah 3ah a9h 13h 9ah d0h
+004c0h:   84h a6h 76h 79h 4bh 57h b0h c2h 99h 4ch a8h 66h 08h 7eh c9h 08h
+004d0h:   33h 18h e4h 19h e5h d0h 47h 3fh f4h 11h 0fh 37h a6h 52h 0dh a1h
+004e0h:   78h e1h a6h beh 38h a8h 4eh 64h e2h 9dh efh 24h 54h f1h aah 09h
+004f0h:   bfh 3fh 4ah e1h 96h 2fh 48h c2h 2fh 75h 70h 10h 40h 14h b1h 1fh
+00500h:   f7h 88h 47h 2ah c3h 61h 40h 67h 86h 42h 14h f0h 4ch a8h 28h 06h
+00510h:   a5h 49h 5eh 1ah 34h 9bh 95h 7ch 81h 0fh 7eh 49h 02h e7h 10h 24h
+00520h:   80h e2h 04h a8h 3bh 52h 99h 8ch e4h a9h b3h 4dh 9ah 48h a8h 48h
+00530h:   17h bah 26h 88h 56h d3h 8fh b4h 4ch c4h 2dh 8dh 20h 88h 23h 7ch
+00540h:   72h 1dh 07h 21h 43h 3bh f8h 21h 10h 7bh 18h 13h 10h c9h 0bh 11h
+00550h:   48h 45h cah d3h 4ch 90h 94h 6ch d5h 3ch 4fh 22h 0ch 1ah 8ah 4eh
+00560h:   75h 71h 0ah 82h 98h 28h 0fh a4h 71h 90h 6ah 60h e3h 9fh fch 10h
+00570h:   e8h 1ch 58h 85h adh 36h 6dh a2h a7h 58h cdh 44h 34h 35h 11h c8h
+00580h:   4ah 12h 35h 14h edh ebh 62h 14h 04h 21h 82h 5fh f6h ech 20h c0h
+00590h:   f8h 46h 0ah 15h 29h 8eh 5ah b0h 6ah 96h 6ch bah 6ah 4fh 55h 90h
+005a0h:   d5h 77h ceh afh 9ah b9h 34h e8h 5dh c7h 88h 08h 41h b4h 80h 07h
+005b0h:   8ch 60h 83h 43h c2h 20h 0eh 78h e8h c3h 1dh e0h 60h 15h 15h d7h
+005c0h:   84h 50h ach b2h a0h aeh 99h 48h 42h 50h 5dh d1h 8ah afh eeh 75h
+005d0h:   8ch 33h 10h c4h 0ch 18h 71h 83h 87h 5ch 21h 1ch edh 20h 87h 19h
+005e0h:   eeh c8h a6h c6h f2h 94h 11h 01h 70h 04h 64h 21h 61h 8ah a0h a2h
+005f0h:   d4h a0h 3ch ech e2h 02h 04h 21h 08h 47h 18h d2h 21h f4h 50h 40h
+00600h:   38h aah 70h 9ah 05h 08h 8ah 4dh 52h 5ch 93h 3bh 7bh 0ah 05h 2dh
+00610h:   a8h a3h 0dh 4dh c8h aah 26h 2ch 01h 8ah d8h 8eh 91h 9dh ceh cch
+00620h:   20h 1fh 45h 40h 5bh 49h dch d6h 21h d5h 78h 5ch 28h 42h 00h 80h
+00630h:   58h 3eh 49h 05h 55h 6dh 92h 28h 42h cah d3h 47h f0h 20h 94h 71h
+00640h:   48h 02h 56h 41h a1h 09h 50h 18h 75h 8ch 53h f8h 6ah 28h 4ch dah
+00650h:   c5h 14h d0h b6h 09h 10h c8h cch 43h cch d0h cch 50h 20h 01h 00h
+00660h:   12h 78h d2h 04h c2h 7bh 50h f2h 8ah 94h 11h 2ah 60h 83h 45h 05h
+00670h:   22h 87h 23h f0h 14h 12h a0h e8h 04h 28h 5ah 7bh cbh f8h 7eh 95h
+00680h:   beh 14h 84h 05h 28h 68h 40h 5bh 1fh 84h 40h 29h 0fh 61h 47h 01h
+00690h:   9ah f4h 80h dfh 9eh 86h 09h 70h 0dh 05h 34h 7bh 5ah 88h 09h c0h
+006a0h:   01h a6h 68h e5h 41h 22h e0h f9h 08h 50h d8h d8h c6h 14h e6h a3h
+006b0h:   85h 89h 7ah 59h fah b5h c2h c6h 41h a0h 2dh 0dh 58h e0h 48h 88h
+006c0h:   00h 00h aeh 66h 6bh 52h 55h 57h cch 53h 26h e4h 80h 18h 0bh 3eh
+006d0h:   c8h 3eh 80h c1h 00h 26h d4h f8h c6h 58h 76h 2eh fdh f2h fah 55h
+006e0h:   2dh 67h aeh 14h 37h 3eh 04h 6dh 49h 10h 82h ech 44h e4h 19h 23h
+006f0h:   60h 13h 79h 4ch 0bh cfh 4fh 76h 81h 1ah 15h c1h 87h 2dh 22h 81h
+00700h:   e5h 3ah 9bh c2h cbh 99h 83h aeh 41h 97h 47h 3fh 53h dch 18h 13h
+00710h:   b4h 15h 04h 01h 00h 20h 8fh 89h 64h 80h c0h f3h c5h 56h 42h 1fh
+00720h:   91h 04h 06h c8h 81h 52h 17h c1h 47h 09h eah 4ch 69h 53h bch 37h
+00730h:   73h 3bh feh 6ah 58h 33h a7h e1h 1bh 2fh 82h b6h 33h 08h 03h 00h
+00740h:   60h 1ch 91h 7ch ach cah 49h 12h 18h eeh 11h 16h 41h 01h 0dh 40h
+00750h:   43h 88h 17h a1h 03h 26h 28h 5dh 69h 4bh 33h 4fh cfh ceh ech f1h
+00760h:   dch 60h 01h e6h 1bh 27h 81h b6h 1fh 00h 00h 00h f2h 17h 11h 7ah
+00770h:   00h 20h b8h a7h 29h 44h 23h 58h f0h 8ch e6h 90h 84h 1eh 2eh a0h
+00780h:   b5h b4h 41h 51h 0ah 3eh 47h 8dh cbh 5fh edh 6ah d4h 58h 41h ebh
+00790h:   16h d0h b6h 00h c2h 3eh 52h 45h 84h 11h 03h 09h 48h d1h 05h 72h
+007a0h:   28h 32h 4bh e4h 30h ebh 69h 4bh dbh 14h adh c0h 33h 65h e5h 1bh
+007b0h:   46h a9h b5h 82h 15h a5h f0h 33h a5h 31h e1h 6dh 1ah 64h 40h d8h
+007c0h:   71h bch c8h 34h b0h b0h 06h 34h 18h eeh 25h f8h 58h 81h bbh ddh
+007d0h:   6dh 0ah 53h 48h c9h b9h afh 25h aah 26h 1eh 61h e9h 12h 59h 1ch
+007e0h:   dfh 0dh 5fh 38h 28h 12h 41h 5bh 11h 7ch 41h d8h d3h f8h 93h 43h
+007f0h:   80h c1h 5ch 8dh 2fh bch e1h 0eh 77h c5h 22h 62h f5h d5h 77h 36h
+00800h:   c2h e4h eeh 0eh b2h 20h 18h 00h 06h 61h 13h 43h e4h 08h d9h 87h
+00810h:   09h 60h ceh f3h 47h 54h 22h 13h 2ch 9fh 64h 48h 2bh 41h 74h 46h
+00820h:   f0h 9ch d6h 96h 08h 34h 16h aeh 20h 6ch 39h e0h 1ch 21h c1h 80h
+00830h:   f0h d1h 17h 4eh 74h a2h 47h 53h 87h a2h 80h 66h d5h abh feh f2h
+00840h:   a9h 63h b9h 09h c0h 86h c6h bfh 01h 40h bdh a7h 1bh 44h 18h 89h
+00850h:   f0h bah b4h 21h b1h f5h aah 6bh 35h e8h 8ch 5dh 71h dbh b7h deh
+00860h:   75h b5h 83h 22h d0h 08h c0h 87h b0h 01h 80h 00h b3h 23h 84h 0dh
+00870h:   8bh b0h 7bh 9dh 17h 31h f7h adh bfh 73h abh d1h 7ch 67h e1h e7h
+00880h:   5eh 77h afh 43h 01h 04h 27h 38h c0h 34h d4h b1h 77h 33h fbh ddh
+00890h:   20h 59h a0h b3h e0h 6dh 6ch 88h c5h 7bh feh f3h 73h 17h 3ch 0ch
+008a0h:   6ah 50h 03h 07h 98h 83h 1ah 7bh 87h f5h e5h 07h 92h 01h cdh dbh
+008b0h:   ddh 12h a0h 8fh 3dh e8h a5h cdh 89h dah 4fh 7bh 11h a4h afh 01h
+008c0h:   0ch e0h 50h 0ch 61h 5bh 60h f5h 08h 51h 07h 05h 36h 9fh 08h d9h
+008d0h:   1bh bfh f0h edh 66h 2fh 21h 88h 30h 04h 21h 38h 7fh 08h 44h 60h
+008e0h:   beh 20h 24h c1h 09h 1bh 37h 20h f7h 35h 38h 00h 3eh 34h 00h 00h
+008f0h:   10h 03h ffh ech 69h 07h 05h 26h 1eh 61h 09h dbh 9bh dch e7h c7h
+00900h:   4fh 7fh 25h 18h f1h 00h 50h 3ch a2h f9h ceh 8fh bfh fch e5h 1fh
+00910h:   7dh ech d7h e0h 03h d0h d0h c0h e0h beh 7fh 90h 2bh 18h 20h 08h
+00920h:   f3h 37h 04h 43h 60h 45h 8bh 20h 75h 75h 56h 00h eah 97h 7eh 50h
+00930h:   a0h 01h cfh 20h 02h f3h f7h 80h 0fh 08h 04h f6h f7h 01h d2h 80h
+00940h:   05h 60h c0h 7fh 0eh b1h 0eh 2fh 00h 81h f4h 47h 04h 4fh 40h 7dh
+00950h:   a0h 00h 05h 11h 00h 03h 34h 50h 08h 09h f8h 79h 50h 90h 03h d5h
+00960h:   82h 06h f1h 27h 08h 84h 70h 08h 87h 40h 08h 2fh 68h 08h 86h 10h
+00970h:   83h 34h 68h 08h 2fh 60h 7fh 11h 10h 47h 8ch 83h 81h 07h 51h 05h
+00980h:   82h 30h 08h 1ch f8h 80h 2ah a0h 7bh b9h f7h 03h 3eh d0h 79h 27h
+00990h:   58h 75h 50h c0h 00h ach 54h 13h 21h 10h 84h 92h c0h 4dh 54h 58h
+009a0h:   85h 8ch 90h 02h 3ah 28h 6eh 3eh 08h 75h 49h 90h 04h 8eh 20h 09h
+009b0h:   34h 28h 66h 1ch 38h 03h 36h 00h 00h 07h 60h 7fh 3fh 30h 03h 47h
+009c0h:   60h 82h b2h e7h 08h 50h e0h 02h 10h 20h 00h 37h 67h 10h 60h 30h
+009d0h:   85h 56h 78h 87h 8ch c0h 03h 13h c8h 54h 5bh 88h 10h 57h 80h 87h
+009e0h:   8ch f0h 85h 31h 28h 84h 42h f0h 03h a4h 67h 03h f6h 97h 7bh 04h
+009f0h:   90h 01h 39h 30h 01h 14h 10h 02h 21h 50h 02h 24h a0h 02h 2ah c0h
+00a00h:   02h 2eh 30h 01h 5eh d0h 06h c5h 60h 0eh 96h 67h 10h d5h 20h 01h
+00a10h:   dch a4h 4fh 80h c8h 08h 4dh 60h 7fh 07h a0h 7ah 7dh d8h 0fh fbh
+00a20h:   a0h 01h 80h 35h 8ah bfh 24h 09h 87h d0h 02h 28h 70h 02h 89h 98h
+00a30h:   7bh 02h c0h 1bh fbh 50h 0fh f2h 80h 0eh d4h e0h 0ch c1h 50h 0dh
+00a40h:   ebh a0h 6eh 11h 91h 01h 85h 20h 8ah aeh 48h 03h f6h 27h 58h a9h
+00a50h:   88h 10h 03h e0h 8ah 54h e8h 00h b5h 88h 7dh 17h d8h 12h 06h 50h
+00a60h:   85h 49h 00h 05h 78h 38h 03h d8h 17h 01h 5ah b1h 8ch 05h 51h 0dh
+00a70h:   adh c8h 08h 3dh 30h 8ah 86h 00h 02h d1h 48h 7ah 1fh 50h 0ch 2dh
+00a80h:   81h 0fh 56h 70h 04h 47h d0h 04h 3ch 30h 8eh 80h 68h 88h b9h b7h
+00a90h:   01h deh 78h 10h f5h f0h 00h 25h a0h 02h 3dh 90h 04h 8bh 00h 88h
+00aa0h:   7ah 58h 03h 27h 70h 02h 1fh 90h 88h 0dh 00h 69h 2dh 01h 07h 8eh
+00ab0h:   90h 04h 24h f0h 00h 04h 50h 8dh 77h 88h 7dh 30h 10h 36h f7h 48h
+00ac0h:   10h f5h 00h 01h 04h 40h 00h 03h b0h 77h 78h f8h 02h dah 78h 8eh
+00ad0h:   f6h e8h 12h f4h 40h 02h 06h 00h 00h 04h c0h 00h 2ah f0h 8fh 56h
+00ae0h:   e8h 03h dbh 48h 6ch 15h 99h 10h 10h c0h 4dh 85h 30h 93h 78h d8h
+00af0h:   02h 07h 50h 00h 05h 40h 8bh f6h 07h 03h 6dh 00h 13h 5dh f0h 49h
+00b00h:   2ch c0h 02h 8eh d0h 91h d8h d7h 77h 2fh 49h 10h ffh d0h 00h ech
+00b10h:   b7h 00h e1h 78h 87h 2dh 40h 7ah 0eh 70h 7dh f6h e7h 00h 7ch e8h
+00b20h:   12h 6dh c0h 08h 7bh 07h 91h 56h 88h 85h bah 77h 00h cfh 70h 94h
+00b30h:   05h 81h 03h 85h 60h 00h 14h 40h 01h a3h a8h 93h d1h 18h 92h 2fh
+00b40h:   11h 93h 8ch 50h 08h 76h 78h 87h a3h 07h 02h 84h 06h 96h 05h a1h
+00b50h:   05h ceh f8h 4bh 68h 99h 88h 05h d0h 8dh 2dh 91h 0eh 0bh e0h 8ch
+00b60h:   47h 00h 03h 0dh b0h 7fh 74h 39h 10h 5eh 70h 97h 3ch c0h 0ch 7eh
+00b70h:   50h 8bh 28h 70h 70h 2fh e1h 0fh 7fh e9h 8ah 25h 50h 0ch 85h 56h
+00b80h:   98h 05h 01h 06h 77h 69h 06h e0h 00h 0eh 7eh 80h 0dh 6fh 80h 7dh
+00b90h:   04h 10h 65h 2dh 51h 05h ceh 38h 07h 96h 79h 10h 1ch e3h 8ch 6eh
+00ba0h:   00h 0eh 81h b0h 99h e0h c0h 92h 35h 30h 00h b8h c3h 13h d2h 50h
+00bb0h:   02h aeh 48h 02h 3dh 78h 9ah 03h 11h 1eh 13h e0h 8ah cah e0h 01h
+00bc0h:   aeh 09h 0eh a3h 27h 00h 5ah f8h 12h d4h 40h 00h ceh c8h 35h bah
+00bd0h:   49h 10h 59h 20h 8fh a3h 38h 68h c9h a0h 0ch c9h c0h 07h c2h b6h
+00be0h:   01h a2h d9h 12h 79h f0h 0eh cbh e0h 0dh 61h c0h 08h dbh b0h 0dh
+00bf0h:   84h c4h 4dh 24h b0h 9ch 04h 51h 0dh 24h e0h 8ch 2ah f0h 0ch f9h
+00c00h:   00h 0ch 6ch 40h 0ch d4h b0h 0eh d7h d9h 12h 5fh f0h 0eh f4h 49h
+00c10h:   9fh ddh 40h 9fh d3h c0h 4dh 0bh 00h 0dh e4h 39h 10h 56h f0h 00h
+00c20h:   ceh d8h 59h 9ah 41h 0ch c3h a0h 9dh f5h 59h 9fh c8h 80h 60h 5fh
+00c30h:   20h 8ch bah 89h 7ah efh 60h 0bh ddh 50h 00h bfh 34h 09h 55h 48h
+00c40h:   02h 70h a6h 16h fbh 30h 9fh 6fh d0h 0ch f4h e9h 06h f5h 59h 02h
+00c50h:   14h 10h 4ah fdh d9h 0fh f3h f9h 0eh 5bh b0h 0dh efh 80h 06h 8ch
+00c60h:   10h 0dh 7dh 60h 06h dch 64h 42h 9bh b1h 0ch 6eh b0h 06h efh b0h
+00c70h:   0dh 58h 90h 9dh efh 60h 05h 6bh 50h 21h 23h dah 0fh d2h 40h 06h
+00c80h:   f4h f9h 06h f4h b9h 0dh 69h 40h 9fh d1h 70h 04h 00h 70h 05h 0ch
+00c90h:   9ah 16h c7h d0h 07h 70h d0h 0fh 05h fah 3fh 3dh 4ah 10h b7h c0h
+00ca0h:   0ch efh 00h 00h d1h 40h 9fh cbh 50h a0h 35h 0ah 00h 4fh fah 27h
+00cb0h:   30h 26h 0ch 17h 30h a5h 05h 71h 0bh 17h c0h 06h 16h b0h 0ch efh
+00cc0h:   90h 05h 58h f0h 07h f4h a9h 01h deh 47h a6h fch b7h 0eh f5h a0h
+00cd0h:   05h 60h 70h 0eh f3h f0h 07h cdh 30h 8dh 72h 5ah 91h 55h d9h 9fh
+00ce0h:   01h 01h
+
+Compression ratio: 3298/13050 (25%).
+
+GIF file terminated normally.
